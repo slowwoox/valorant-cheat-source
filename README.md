@@ -4,6 +4,8 @@ Since people have been saying we have rats and loggers in our valorant python sc
 join discord for support
 https://discord.gg/9NXsT2T9Uh
 
+v python script starts below, it's only about 130 lines of code
+
 
 import keyboard
 import pyautogui
